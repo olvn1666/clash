@@ -1,6 +1,5 @@
 自建订阅转换后端地址：https://psub.v07myzp2b.workers.dev/sub?
 
-远程配置MySub：https://raw.githubusercontent.com/olvn1666/Clash/main/MySub.ini
 远程配置MySub_RepczRule：https://raw.githubusercontent.com/olvn1666/Clash/main/config/MySub_RepczRule.ini
 
 排除节点：流量|重置|套餐|官网|群组
