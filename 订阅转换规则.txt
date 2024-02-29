@@ -1,5 +1,3 @@
-后端地址：https://psub.v07myzp2b.workers.dev/sub?
-
 远程配置：https://raw.githubusercontent.com/olvn1666/Clash/main/config/Sub_Plus.ini
 
 排除节点：流量|重置|套餐|官网|群组|公益机场 xqc.best
