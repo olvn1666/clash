@@ -20,6 +20,9 @@ DOMAIN-SUFFIX,cherrytv.one
 
 ##### E #####
 
+# EmbyPlus纸片人
+DOMAIN-SUFFIX,embyplus.org
+
 # Exflux 
 DOMAIN-SUFFIX,line.emby.men
 
@@ -100,6 +103,8 @@ DOMAIN-SUFFIX,mjjemby.org
 DOMAIN-SUFFIX,emby.maying.club
 
 ##### N #####
+# NMEmby
+DOMAIN-SUFFIX,ohhhh.org
 
 # ntRRR
 DOMAIN-SUFFIX,ntrrr.am.sb
@@ -231,7 +236,6 @@ DOMAIN-SUFFIX,newwan.top
 DOMAIN-SUFFIX,shuipo.lol
 DOMAIN-SUFFIX,dicarerhome.com
 DOMAIN-SUFFIX,emby77.cf
-DOMAIN-SUFFIX,embyplus.org
 IP-CIDR,188.172.228.49/32,no-resolve
 DOMAIN-SUFFIX,embytv.cf
 DOMAIN-SUFFIX,zox.show
