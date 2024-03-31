@@ -105,7 +105,7 @@ DOMAIN-SUFFIX,emby.maying.club
 ##### N #####
 
 # NMEmby
-DOMAIN-SUFFIX,film.ohhhh.org
+DOMAIN-SUFFIX,ohhhh.org
 
 # ntRRR
 DOMAIN-SUFFIX,ntrrr.am.sb
@@ -276,6 +276,5 @@ DOMAIN-SUFFIX,dicarerhome.com
 DOMAIN-SUFFIX,starcat.eu.org
 DOMAIN-SUFFIX,catlinks.co.uk
 DOMAIN-SUFFIX,emby.ws
-DOMAIN-SUFFIX,ohhhh.org
 DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,9521732.xyz
