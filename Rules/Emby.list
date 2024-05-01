@@ -20,6 +20,9 @@ DOMAIN-SUFFIX,cherrytv.one
 
 ##### E #####
 
+# EmbyPlus 纸片人
+DOMAIN-SUFFIX,embyplus.org
+
 # Exflux 
 DOMAIN-SUFFIX,line.emby.men
 
@@ -171,6 +174,15 @@ DOMAIN-SUFFIX,post.cn2gias.uk
 
 ##### T #####
 
+# Terminus 终点站
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,pub1back.emby.wtf
+DOMAIN-SUFFIX,pub2back.emby.wtf
+DOMAIN-SUFFIX,pub3back.emby.wtf
+DOMAIN-SUFFIX,pub1.emby.wtf
+DOMAIN-SUFFIX,pub2.emby.wtf
+DOMAIN-SUFFIX,pub3.emby.wtf
+
 # TreeDiagram
 DOMAIN-SUFFIX,123456.al
 
@@ -202,18 +214,6 @@ DOMAIN-SUFFIX,servers.xeton.dev
 DOMAIN-SUFFIX,emby.ytoo.li
 
 ##### Z #####
-
-# 终点站
-DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,pub1back.emby.wtf
-DOMAIN-SUFFIX,pub2back.emby.wtf
-DOMAIN-SUFFIX,pub3back.emby.wtf
-DOMAIN-SUFFIX,pub1.emby.wtf
-DOMAIN-SUFFIX,pub2.emby.wtf
-DOMAIN-SUFFIX,pub3.emby.wtf
-
-# 纸片人小站
-DOMAIN-SUFFIX,embyplus.org
 
 ##### 0-9 #####
 
