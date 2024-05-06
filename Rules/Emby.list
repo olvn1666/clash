@@ -34,6 +34,9 @@ DOMAIN-SUFFIX,mius.uk
 # Facmata
 DOMAIN-SUFFIX,cinema.facmata.net
 
+# 飞越彩虹
+DOMAIN-SUFFIX,7777777.buzz
+
 ##### G #####
 
 # Godetia
@@ -109,6 +112,7 @@ DOMAIN-SUFFIX,tv.micu.hk
 
 # NMEmby
 DOMAIN-SUFFIX,ohhhh.org
+DOMAIN-SUFFIX,hovervan.org
 
 # ntRRR
 DOMAIN-SUFFIX,ntrrr.am.sb
