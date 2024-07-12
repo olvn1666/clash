@@ -176,6 +176,9 @@ DOMAIN,notnetflix.cos.cat
 DOMAIN-SUFFIX,emby.cn2gias.uk
 DOMAIN-SUFFIX,post.cn2gias.uk
 
+# Starcat
+DOMAIN-SUFFIX,catlinks.co.uk
+
 ##### T #####
 
 # Terminus 终点站
@@ -283,7 +286,6 @@ DOMAIN-SUFFIX,20120714.xyz
 DOMAIN-SUFFIX,gugumedia.link
 DOMAIN-SUFFIX,dicarerhome.com
 DOMAIN-SUFFIX,starcat.eu.org
-DOMAIN-SUFFIX,catlinks.co.uk
 DOMAIN-SUFFIX,emby.ws
 DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,9521732.xyz
